@@ -82,7 +82,8 @@ margin: 0 auto;
     width: 1320px;
 height: 600px;
 background: linear-gradient(180deg, #070211 0%,);
-
+position: relative;
+margin-left: 15px ;
 }
 .optional-pic{
     background-image: url('../resources/Group\ 70\ \(2\).png');
@@ -90,8 +91,40 @@ width: 470px;
 height: 330px;
 transform: rotate(90deg);
 margin-left:900px;
-
+position: absolute;
+top:25%;
 }
+.pera-one{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+align-items: left;
+padding-top: 100px;
+}
+.pera-two{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+/* margin-top: 25px; */
+}
+
 .image-pera{
-    
+position: absolute;
+padding-top: 100px;
+padding-left: 100px;
+}
+.first-button{
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+margin-top: 50px;
+/* margin-left: 25px; */
+
+
 }
