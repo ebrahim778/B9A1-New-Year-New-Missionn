@@ -149,13 +149,12 @@ font-weight: 300;
 
 }
 .group-picture{
-    background-image: url('../resources/Ellipse\ 1.png');
-    width: 300px;
-height: 300px;
+background-image: url('../resources/Ellipse\ 1.png');
 border: solid red;
-border-radius: 300px;
 justify-content: center;
-
+width: 360px;
+height: 360px;
+border-radius: 460px;
 }
 .title{
     color: #070211;
@@ -185,6 +184,9 @@ line-height: 32px; /* 160% */
     line-height: normal;
     
 }
+.first-paragraph{
+    margin-left: 10%;
+}
 
 .second-paragraph{
     color: rgba(7, 2, 17, 0.60);
@@ -192,5 +194,9 @@ line-height: 32px; /* 160% */
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    justify-content: left;
+ margin-left: 100%;
+ font-weight: 400;
+ width: 300px;
+ height: 300px;
+ 
 }
