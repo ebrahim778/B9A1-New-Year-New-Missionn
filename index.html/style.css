@@ -245,3 +245,55 @@ height: 400px;
 display: flex;
 margin-left:10%;
 }
+
+.subscribe-logo{
+background-image: url('../resources/Group\ 61.png');
+width: 150px;
+height: 150px;
+margin-left: 45%;
+margin-top: 5%;
+}
+.subscribe-title{
+color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+text-transform: capitalize;
+margin-top: 2%;
+}
+
+.subscribe-paragraph{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 30px;
+    font-weight: 200;
+    text-transform: capitalize;
+    
+}
+.subscribe {
+max-width: 80%;
+height: auto;
+/* border: solid #070211; */
+margin-left:15%;
+background: rgba(177, 51, 51, 0.05);
+}
+
+.subscribe-input {
+    margin-top:2%;
+    width: 400px;
+    height: 50px;
+    border-radius: 0px;
+background: #FFF;
+margin-left: 15%;
+gap:0px;
+}
+.button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+background: #F00;
+border-radius: 0px 50px 50px 0px;
+}
