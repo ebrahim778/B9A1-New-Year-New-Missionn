@@ -150,11 +150,11 @@ font-weight: 300;
 }
 .group-picture{
 background-image: url('../resources/Ellipse\ 1.png');
-border: solid red;
+border: 15px solid red;
 justify-content: center;
 width: 360px;
 height: 360px;
-border-radius: 460px;
+border-radius: 860px;
 margin-left: 100px;
 }
 .title{
@@ -208,4 +208,33 @@ line-height: 32px; /* 160% */
 height: 140px;
 justify-content: end;
 margin-left: 400px;
+
+}
+.portfolio-part{
+margin-top: 15%;
+margin-left: 10%;
+display: flex;
+}
+.portfolio-head{
+
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.portfolio-title{
+
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.portfolio-peragraph{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+
 }
