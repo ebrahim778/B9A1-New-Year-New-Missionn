@@ -341,12 +341,20 @@ margin-right: 30%;
    border: 2px solid #070211;
   display: flex;  
   gap: 50px;
-} 
+  border-style: inset;
+  border-style: outset;
+  margin-top: 3%;
+  bo
+
+}
+ 
 .facebook{
     background-image:url('../resources/Facebook.png') ;
     width: 64px;
     height: 64px;
+    margin-left: 35%;
 }
+
 .instagram{
     width: 64px;
     height: 64px;
