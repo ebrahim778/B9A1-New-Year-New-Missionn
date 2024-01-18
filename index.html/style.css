@@ -370,4 +370,26 @@ margin-right: 30%;
     height: 64px;
     background-image: url('../resources/Linkedin.png');
 }
+.last-footer{
+display:flex;
+justify-content: space-between;
 
+}
+
+.footer-ending-1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+   
+}
+
+
+.footer-ending-2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
