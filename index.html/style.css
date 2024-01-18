@@ -338,7 +338,30 @@ margin-right: 30%;
     border: 5px solid red;
 }
 
-.last-footer{
-    border-style: inset;
+.social-media{
+   border: 2px solid #070211;
+  display: flex;
+  gap:1px;
+  
+} 
+.facebook{
+    background-image:url('../resources/Facebook.png') ;
+    width: 64px;
+    height: 64px;
+}
+.instagram{
+    width: 64px;
+    height: 64px;
+    background-image: url('../resources/Instagram.png');
+}
+.twitter{
+    width: 64px;
+    height: 64px;
+    background-image: url('../resources/Twitter.png');
+}
+.linkdin {
+    width: 64px;
+    height: 64px;
+    background-image: url('../resources/Linkedin.png');
 }
 
