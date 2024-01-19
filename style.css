@@ -78,7 +78,7 @@ margin: 0 auto;
 
 .welcome-image{
     margin-top: 100px;
-    background-image: url('./resources/Vectorrr.png');
+    background-image: url('../resources/Vectorrr.png');
     width: 1320px;
 height: 600px;
 background: linear-gradient(180deg, #070211 0%,);
